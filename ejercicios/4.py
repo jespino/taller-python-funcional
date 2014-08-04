@@ -1,8 +1,6 @@
 # Con el modulo fn.py
 
 # A: Instalar la versión del repositorio de kachayev/fn.py en un virtualenv con python3
-#
-# Resultado: [2, 4, 6, 8, 10]
 
 # B: Obtener los numeros pares del 1 al 10 con range, map y una funcion anonima al estilo de scala
 #
