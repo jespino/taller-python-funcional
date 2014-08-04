@@ -22,11 +22,11 @@
 #
 # Resultado: [True, False, True, False]
 
-# F: Obtener los numeros pares del 1 al 10 con range y filter
+# F: Obtener los numeros pares del 1 al 10 con range, filter y una funcion lambda
 #
 # Resultado: [2, 4, 6, 8, 10]
 
-# G: Obtener los numeros pares del 1 al 10 con range y map
+# G: Obtener los numeros pares del 1 al 10 con range, map y una funcion lambda
 #
 # Resultado: [2, 4, 6, 8, 10]
 
